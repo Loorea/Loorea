@@ -1,5 +1,5 @@
 ## Olá, meu nome é Loorea!
-- 🎓 Atualmente cursando Engenharia de Software no quarto período.
+- 🎓 Atualmente cursando Engenharia de Software no quinto período.
 - 🌱 Aprendendo mais sobre Python e Análise de dados, e aprofundando conhecimentos em Java & Spring Boot.
 - ⭐ Trabalhando em novos projetos de aprofundamento e que podem ser utilizados em meus estudos.
 ---
